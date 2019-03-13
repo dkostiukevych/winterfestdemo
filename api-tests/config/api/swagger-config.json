@@ -1,0 +1,10 @@
+{
+  "modelPackage": "com.pets.api.model.pets",
+  "apiPackage": "com.pets.api.services",
+  "invokerPackage": "com.pets.api.pets",
+  "groupId": "com.pets",
+  "artifactId": "swagger-codegen-event-api-client",
+  "artifactVersion": "0.0.1-SNAPSHOT",
+  "sourceFolder": "src/main/java",
+  "library": "rest-assured"
+}
